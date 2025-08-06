@@ -17,6 +17,7 @@ This directory holds all my solutions for the different Java problems available 
 - [Lasagna](./lasagna/README.md)
 - [Log Levels](./log-levels/README.md)
 - [Need For Speed](./need-for-speed/README.md)
+- [Relative Distance](./relative-distance/README.md)
 - [Salary Calculator](./salary-calculator/README.md)
 - [Secrets](./secrets/README.md)
 - [Squeaky Clean](./squeaky-clean/README.md)
