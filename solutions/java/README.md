@@ -7,6 +7,7 @@ This directory holds all my solutions for the different Java problems available 
 - [Annalyns Infiltration](./annalyns-infiltration/README.md)
 - [Bird Watcher](./bird-watcher/README.md)
 - [Booking Up For Beauty](./booking-up-for-beauty/README.md)
+- [Calculator Conundrum](./calculator-conundrum/README.md)
 - [Captains Log](./captains-log/README.md)
 - [Cars Assemble!](./cars-assemble/README.md)
 - [Football Match Reports](./football-match-reports/README.md)
