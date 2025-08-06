@@ -18,6 +18,7 @@ This directory holds all my solutions for the different Java problems available 
 - [Karls Languages](./jedliks-toy-car/README.md)
 - [Lasagna](./lasagna/README.md)
 - [Log Levels](./log-levels/README.md)
+- [Logs Logs Logs!](./logs-logs-logs/README.md)
 - [Need For Speed](./need-for-speed/README.md)
 - [Remote Control Competition](./remote-control-competition/README.md)
 - [Relative Distance](./relative-distance/README.md)
