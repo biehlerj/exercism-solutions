@@ -11,6 +11,7 @@ This directory holds all my solutions for the different Java problems available 
 - [Cars Assemble!](./cars-assemble/README.md)
 - [Football Match Reports](./football-match-reports/README.md)
 - [Hello, World!](./hello-world/README.md)
+- [International Calling Connoisseur](./international-calling-connoisseur/README.md)
 - [Jedliks Toy Car](./jedliks-toy-car/README.md)
 - [Karls Languages](./jedliks-toy-car/README.md)
 - [Lasagna](./lasagna/README.md)
