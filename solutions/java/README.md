@@ -27,3 +27,4 @@ This directory holds all my solutions for the different Java problems available 
 - [Squeaky Clean](./squeaky-clean/README.md)
 - [Tim From Marketing](./tim-from-marketing/README.md)
 - [Wizards and Warriors](./wizards-and-warriors/README.md)
+- [Wizards and Warriors 2](./wizards-and-warriors-2/README.md)
