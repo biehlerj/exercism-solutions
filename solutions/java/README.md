@@ -11,6 +11,7 @@ This directory holds all my solutions for the different Java problems available 
 - [Captains Log](./captains-log/README.md)
 - [Cars Assemble!](./cars-assemble/README.md)
 - [Football Match Reports](./football-match-reports/README.md)
+- [Gotta Snatch 'Em All](./gotta-snatch-em-all/README.md)
 - [Hello, World!](./hello-world/README.md)
 - [International Calling Connoisseur](./international-calling-connoisseur/README.md)
 - [Jedliks Toy Car](./jedliks-toy-car/README.md)
