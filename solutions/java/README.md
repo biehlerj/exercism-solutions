@@ -20,3 +20,4 @@ This directory holds all my solutions for the different Java problems available 
 - [Secrets](./secrets/README.md)
 - [Squeaky Clean](./squeaky-clean/README.md)
 - [Tim From Marketing](./tim-from-marketing/README.md)
+- [Wizards and Warriors](./wizards-and-warriors/README.md)
