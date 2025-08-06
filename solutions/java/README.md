@@ -9,6 +9,7 @@ This directory holds all my solutions for the different Java problems available 
 - [Booking Up For Beauty](./booking-up-for-beauty/README.md)
 - [Captains Log](./captains-log/README.md)
 - [Cars Assemble!](./cars-assemble/README.md)
+- [Football Match Reports](./football-match-reports/README.md)
 - [Hello, World!](./hello-world/README.md)
 - [Jedliks Toy Car](./jedliks-toy-car/README.md)
 - [Karls Languages](./jedliks-toy-car/README.md)
