@@ -7,5 +7,6 @@ This directory holds all my solutions for the different Go problems available on
 - [Annalyns Infiltration](./annalyns-infiltration/README.md)
 - [Cars Assemble](./cars-assemble/README.md)
 - [Lasagna](./lasagna/README.md)
+- [Vehicle Purchase](./vehicle-purchase/README.md)
 - [Weather Forecast](./weather-forecast/README.md)
 - [Welcome to Tech Palace](./welcome-to-tech-palace/README.md)
