@@ -8,3 +8,4 @@ This directory holds all my solutions for the different Go problems available on
 - [Cars Assemble](./cars-assemble/README.md)
 - [Lasagna](./lasagna/README.md)
 - [Weather Forecast](./weather-forecast/README.md)
+- [Welcome to Tech Palace](./welcome-to-tech-palace/README.md)
