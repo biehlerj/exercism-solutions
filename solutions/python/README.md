@@ -4,4 +4,5 @@ This directory holds all my solutions for the different Python problems availabl
 
 ## Problems
 
+- [Guido's Gorgeous Lasagna](./guidos-gorgeous-lasagna/README.md)
 - [Hello, World!](./hello-world/README.md)
