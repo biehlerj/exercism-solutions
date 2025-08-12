@@ -13,6 +13,7 @@ This directory holds all my solutions for the different Python problems availabl
 - [Guido's Gorgeous Lasagna](./guidos-gorgeous-lasagna/README.md)
 - [Hello, World!](./hello-world/README.md)
 - [Leap](./leap/README.md)
+- [Little Sisters Vocab](./little-sisters-vocab/README.md)
 - [Meltdown Mitigation](./meltdown-mitigation/README.md)
 - [Pig Latin](./pig-latin/README.md)
 - [Raindrops](./raindrops/README.md)
