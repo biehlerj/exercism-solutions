@@ -1,6 +1,5 @@
 import re
 
-
 RE = re.compile("^(x(?!r)|y(?!t)|[^aeiouqxy]*(?:qu?)?)(.+)$")
 
 
@@ -11,7 +10,7 @@ def translate(text: str) -> str:
     :return: str - translated text
 
     Function that takes in a string to be translated and returns the translated
-    text based on set rules.
+    text based on set rules. (Using regex method)
     """
 
     def translate_word(word: str) -> str:
