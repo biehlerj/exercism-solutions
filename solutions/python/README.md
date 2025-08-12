@@ -14,4 +14,5 @@ This directory holds all my solutions for the different Python problems availabl
 - [Hello, World!](./hello-world/README.md)
 - [Leap](./leap/README.md)
 - [Meltdown Mitigation](./meltdown-mitigation/README.md)
+- [Raindrops](./raindrops/README.md)
 - [Triangle](./triangle/README.md)
