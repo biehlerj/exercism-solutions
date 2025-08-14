@@ -20,4 +20,5 @@ This directory holds all my solutions for the different Python problems availabl
 - [Pangram](./pangram/README.md)
 - [Pig Latin](./pig-latin/README.md)
 - [Raindrops](./raindrops/README.md)
+- [Rotational Cipher](./rotational-cipher/README.md)
 - [Triangle](./triangle/README.md)
