@@ -4,6 +4,7 @@ This directory holds all my solutions for the different Python problems availabl
 
 ## Problems
 
+- [All Your Base](./all-your-base/README.md)
 - [Armstrong Numbers](./armstrong-numbers/README.md)
 - [Black Jack](./black-jack/README.md)
 - [Bob](./bob/README.md)
