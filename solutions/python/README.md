@@ -26,6 +26,7 @@ This directory holds all my solutions for the different Python problems availabl
 - [Pangram](./pangram/README.md)
 - [Pig Latin](./pig-latin/README.md)
 - [Raindrops](./raindrops/README.md)
+- [Resistor Color](./resistor-color/README.md)
 - [Rotational Cipher](./rotational-cipher/README.md)
 - [Sublist](./sublist/README.md)
 - [Triangle](./triangle/README.md)
