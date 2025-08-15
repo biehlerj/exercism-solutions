@@ -7,6 +7,7 @@ This directory holds all my solutions for the different Python problems availabl
 - [Armstrong Numbers](./armstrong-numbers/README.md)
 - [Black Jack](./black-jack/README.md)
 - [Bob](./bob/README.md)
+- [Card Games](./card-games/README.md)
 - [Collatz Conjecture](./collatz-conjecture/README.md)
 - [Currency Exchange](./currency-exchange/README.md)
 - [Ghost Gobble Arcade Game](./ghost-gobble-arcade-game/README.md)
