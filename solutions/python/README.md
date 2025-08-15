@@ -16,6 +16,7 @@ This directory holds all my solutions for the different Python problems availabl
 - [ISBN Verifier](./isbn-verifier/README.md)
 - [Isogram](./isogram/README.md)
 - [Leap](./leap/README.md)
+- [Little Sisters Essay](./little-sisters-essay/README.md)
 - [Little Sisters Vocab](./little-sisters-vocab/README.md)
 - [Meltdown Mitigation](./meltdown-mitigation/README.md)
 - [Pangram](./pangram/README.md)
