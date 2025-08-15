@@ -10,6 +10,7 @@ This directory holds all my solutions for the different Python problems availabl
 - [Card Games](./card-games/README.md)
 - [Collatz Conjecture](./collatz-conjecture/README.md)
 - [Currency Exchange](./currency-exchange/README.md)
+- [Darts](./darts/README.md)
 - [Ghost Gobble Arcade Game](./ghost-gobble-arcade-game/README.md)
 - [Grains](./grains/README.md)
 - [Guido's Gorgeous Lasagna](./guidos-gorgeous-lasagna/README.md)
