@@ -37,3 +37,4 @@ This directory holds all my solutions for the different Python problems availabl
 - [Square Root](./square-root/README.md)
 - [Sublist](./sublist/README.md)
 - [Triangle](./triangle/README.md)
+- [Wordy](./wordy/README.md)
