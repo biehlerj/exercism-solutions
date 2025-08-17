@@ -31,6 +31,7 @@ This directory holds all my solutions for the different Python problems availabl
 - [Raindrops](./raindrops/README.md)
 - [Resistor Color](./resistor-color/README.md)
 - [Resistor Color Duo](./resistor-color-duo/README.md)
+- [RNA Transcription](./rna-transcription/README.md)
 - [Rotational Cipher](./rotational-cipher/README.md)
 - [Square Root](./square-root/README.md)
 - [Sublist](./sublist/README.md)
