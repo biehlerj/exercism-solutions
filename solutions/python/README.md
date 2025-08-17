@@ -23,6 +23,7 @@ This directory holds all my solutions for the different Python problems availabl
 - [Little Sisters Essay](./little-sisters-essay/README.md)
 - [Little Sisters Vocab](./little-sisters-vocab/README.md)
 - [Making the Grade](./making-the-grade/README.md)
+- [Matching Brackets](./matching-brackets/README.md)
 - [Meltdown Mitigation](./meltdown-mitigation/README.md)
 - [Perfect Numbers](./perfect-numbers/README.md)
 - [Pangram](./pangram/README.md)
