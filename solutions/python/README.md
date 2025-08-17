@@ -31,5 +31,6 @@ This directory holds all my solutions for the different Python problems availabl
 - [Resistor Color](./resistor-color/README.md)
 - [Resistor Color Duo](./resistor-color-duo/README.md)
 - [Rotational Cipher](./rotational-cipher/README.md)
+- [Square Root](./square-root/README.md)
 - [Sublist](./sublist/README.md)
 - [Triangle](./triangle/README.md)
