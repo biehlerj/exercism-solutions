@@ -10,6 +10,7 @@ This directory holds all my solutions for the different Python problems availabl
 - [Black Jack](./black-jack/README.md)
 - [Bob](./bob/README.md)
 - [Card Games](./card-games/README.md)
+- [Cater Waiter](./cater-waiter/README.md)
 - [Chaitanas Colossal Coaster](./chaitanas-colossal-coaster/README.md)
 - [Collatz Conjecture](./collatz-conjecture/README.md)
 - [Currency Exchange](./currency-exchange/README.md)
