@@ -39,6 +39,7 @@ This directory holds all my solutions for the different Python problems availabl
 - [Resistor Color Duo](./resistor-color-duo/README.md)
 - [RNA Transcription](./rna-transcription/README.md)
 - [Rotational Cipher](./rotational-cipher/README.md)
+- [Spiral Matrix](./spiral-matrix/README.md)
 - [Square Root](./square-root/README.md)
 - [Sublist](./sublist/README.md)
 - [Tisbury Treasure Hunt](./tisbury-treasure-hunt/README.md)
