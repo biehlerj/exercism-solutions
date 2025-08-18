@@ -49,4 +49,5 @@ This directory holds all my solutions for the different Python problems availabl
 - [Sublist](./sublist/README.md)
 - [Tisbury Treasure Hunt](./tisbury-treasure-hunt/README.md)
 - [Triangle](./triangle/README.md)
+- [Variable Length Quantity](./variable-length-quantity/README.md)
 - [Wordy](./wordy/README.md)
