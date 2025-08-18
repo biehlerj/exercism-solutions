@@ -5,6 +5,7 @@ This directory holds all my solutions for the different Python problems availabl
 ## Problems
 
 - [All Your Base](./all-your-base/README.md)
+- [Anagram](./anagram/README.md)
 - [Armstrong Numbers](./armstrong-numbers/README.md)
 - [Atbash Cipher](./atbash-cipher/README.md)
 - [Black Jack](./black-jack/README.md)
