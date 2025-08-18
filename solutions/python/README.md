@@ -10,6 +10,7 @@ This directory holds all my solutions for the different Python problems availabl
 - [Atbash Cipher](./atbash-cipher/README.md)
 - [Black Jack](./black-jack/README.md)
 - [Bob](./bob/README.md)
+- [Bottle Song](./bottle-song/README.md)
 - [Card Games](./card-games/README.md)
 - [Cater Waiter](./cater-waiter/README.md)
 - [Chaitanas Colossal Coaster](./chaitanas-colossal-coaster/README.md)
