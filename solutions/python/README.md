@@ -41,6 +41,7 @@ This directory holds all my solutions for the different Python problems availabl
 - [Resistor Color Trio](./resistor-color-trio/README.md)
 - [RNA Transcription](./rna-transcription/README.md)
 - [Rotational Cipher](./rotational-cipher/README.md)
+- [Secret Handshake](./secret-handshake/README.md)
 - [Spiral Matrix](./spiral-matrix/README.md)
 - [Square Root](./square-root/README.md)
 - [Sublist](./sublist/README.md)
