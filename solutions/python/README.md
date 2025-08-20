@@ -8,6 +8,7 @@ This directory holds all my solutions for the different Python problems availabl
 - [Anagram](./anagram/README.md)
 - [Armstrong Numbers](./armstrong-numbers/README.md)
 - [Atbash Cipher](./atbash-cipher/README.md)
+- [Binary Search](./binary-search/README.md)
 - [Black Jack](./black-jack/README.md)
 - [Bob](./bob/README.md)
 - [Bottle Song](./bottle-song/README.md)
