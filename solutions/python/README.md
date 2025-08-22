@@ -19,6 +19,7 @@ This directory holds all my solutions for the different Python problems availabl
 - [Currency Exchange](./currency-exchange/README.md)
 - [Darts](./darts/README.md)
 - [Diamonds](./diamond/README.md)
+- [Eliuds Eggs](./eliuds-eggs/README.md)
 - [Ellens Alien Game](./ellens-alien-game/README.md)
 - [Flower Field](./flower-field/README.md)
 - [Ghost Gobble Arcade Game](./ghost-gobble-arcade-game/README.md)
